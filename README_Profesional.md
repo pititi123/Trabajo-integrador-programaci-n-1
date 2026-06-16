@@ -15,9 +15,9 @@ Aplicación desarrollada en Python para gestionar información de países median
 - Python 3.x
 
 ## Ejecución
-```bash
+
 python main.py
-```
+
 
 ## Archivos
 - main.py
@@ -25,11 +25,11 @@ python main.py
 - Documentación PDF
 
 ## Integrantes
-- Completar
-- Completar
+Ignacio Evans
+
 
 ## Video demostración
-Agregar enlace aquí.
+https://youtu.be/TYB3fwBp69I
 
 ## Repositorio
-Agregar enlace GitHub aquí.
+https://github.com/pititi123/Trabajo-integrador-programaci-n-1
